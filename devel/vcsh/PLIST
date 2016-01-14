@@ -1,0 +1,6 @@
+@comment $NetBSD$
+bin/vcsh
+share/doc/vcsh/README.md
+share/doc/vcsh/hooks
+man/man1/vcsh.1
+share/zsh/vendor-completions/_vcsh
